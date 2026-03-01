@@ -1,6 +1,6 @@
 ## Hello, world! I'm João Pedro Alencar 👋
 
-Computer Science Student | Back-End, Automation & Data Enthusiast 🚀
+#Computer Science Student | Back-End, Automation & Data Enthusiast 🚀
 
 I am a Computer Science student from Brazil with a strong passion for solving real-world problems through code. My focus lies at the intersection of Back-End development, Cloud Computing, and Data Intelligence. I am highly motivated by complex challenges and constantly looking for ways to optimize processes and build smart solutions.
 
